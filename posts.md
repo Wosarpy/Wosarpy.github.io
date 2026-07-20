@@ -9,8 +9,4 @@ title: Posts
 
 {{ post.excerpt }}
 
-{% if post.comments %}
-  {% include comments.html %}
-{% endif %}
-
 {% endfor %}
