@@ -14,3 +14,5 @@ No posts found.
 {{ post.date | date: "%Y-%m-%d" }}
 
 {{ post.excerpt }}
+
+{% endfor %}
