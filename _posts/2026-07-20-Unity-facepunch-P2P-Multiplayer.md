@@ -14,6 +14,6 @@ Content here...
 
 
 ## 2. Installation
-> Note: The official installation process, as written by Facepunch.Steamworks themselves, can be found [here](https://wiki.facepunch.com/steamworks/Installing_For_Unity).
+> Note: The official installation process, as written by the creators of Facepunch.Steamworks themselves, can be found [here](https://wiki.facepunch.com/steamworks/Installing_For_Unity).
 
 ## 3. Getting Started
