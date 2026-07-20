@@ -3,3 +3,5 @@ title: Wosarpy's Amateur Solutions
 description: Bookmark this to keep an eye on my project updates!
 future: true
 markdown: kramdown
+kramdown:
+  toc_levels: 2..4
