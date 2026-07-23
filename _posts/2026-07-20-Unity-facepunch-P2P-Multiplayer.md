@@ -16,11 +16,11 @@ Content here...
 ## 2. Installation
 > Note: The official installation process, as written by the creators of Facepunch.Steamworks themselves, can be found [here](https://wiki.facepunch.com/steamworks/Installing_For_Unity).
 
-This section of the article will serve as a detailed installation guide for developers, who're unfamilar with installing and utilizing custom Unity Packages. The first step is installing the latest release of Facepunch.Steamworks, which can be found on their [official GitHub repository](https://github.com/Facepunch/Facepunch.Steamworks/releases). The file can be found under the "assets" dropdown, named "Facepunch.Steamworks.Version.zip", where "Version" is a placeholder for the semantic versioning. Make sure you're downloading the correct .zip file, and not the source code (see figure 1).
+This section of the article will serve as a detailed installation guide for developers, who're unfamilar with installing and utilizing custom Unity Packages. The first step is installing the latest release of Facepunch.Steamworks, which can be found on their [official GitHub repository](https://github.com/Facepunch/Facepunch.Steamworks/releases). The file can be found under the assets dropdown. At the time of writing this, releases are named, using the naming-template "Facepunch.Steamworks.Version.zip", where "Version" is a placeholder for the semantic versioning. Make sure you're downloading the correct .zip file, and not the source code (see figure 1).
 
 <figure>
   <img src="/assets/Steamworks_download_example.png" alt="Steamworks SDK download page">
-  <figcaption>Figure 1: Facepunch.Steamworks LTS repository. Desired download outlined.</figcaption>
+  <figcaption>Figure 1: Facepunch.Steamworks LTS repository: version 2.5.2. Desired download outlined.</figcaption>
 </figure>
 
 
