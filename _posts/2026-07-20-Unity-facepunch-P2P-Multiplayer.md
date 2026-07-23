@@ -18,6 +18,10 @@ Content here...
 
 This section of the article will act as a detailed introduction for developers, who're unfamilar with installing and utilizing custom Unity Packages. The first step is installing the latest release of Facepunch.Steamworks, that can be found on their [official GitHub repository](https://github.com/Facepunch/Facepunch.Steamworks/releases). 
 
-![Screenshot](/assets/Steamworks_download_example.png)
+<figure>
+  <img src="/assets/Steamworks_download_example.png" alt="Steamworks SDK download page">
+  <figcaption>Figure 1: Steamworks SDK download page.</figcaption>
+</figure>
+
 
 ## 3. Getting Started
