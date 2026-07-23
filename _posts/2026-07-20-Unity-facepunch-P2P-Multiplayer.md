@@ -20,7 +20,7 @@ This section of the article will act as a detailed introduction for developers, 
 
 <figure>
   <img src="/assets/Steamworks_download_example.png" alt="Steamworks SDK download page">
-  <figcaption>Figure 1: Steamworks SDK download page.</figcaption>
+  <figcaption>Figure 1: Facepunch.Steamworks LTS page. Desired download outlined.</figcaption>
 </figure>
 
 
