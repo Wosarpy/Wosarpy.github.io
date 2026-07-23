@@ -16,4 +16,6 @@ Content here...
 ## 2. Installation
 > Note: The official installation process, as written by the creators of Facepunch.Steamworks themselves, can be found [here](https://wiki.facepunch.com/steamworks/Installing_For_Unity).
 
+This section of the article will act as a detailed introduction for developers, who're unfamilar with installing and utilizing custom Unity Packages. The first step is installing the latest release of Facepunch.Steamworks, that can be found on their [official GitHub repository](https://github.com/Facepunch/Facepunch.Steamworks/releases). 
+
 ## 3. Getting Started
