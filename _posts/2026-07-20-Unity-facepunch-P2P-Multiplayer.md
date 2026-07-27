@@ -26,6 +26,8 @@ This section of the article will serve as a detailed installation guide for deve
 
 ## 3. Getting Started
 
+An essential step in Facepunch.Steamworks as a whole, is client initiation - or, in layman's terms, telling Steam to connect our account to a given application. 
+
 {% highlight csharp linenos %}
 try
 {
